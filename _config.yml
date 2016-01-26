@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Arnaud Prat
+email: arnaud.prat@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog ou je partage ma veille, mes expériences et mes réflexions.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: arnaudprat
+github_username:  noctane
+
+# Build settings
+markdown: kramdown
