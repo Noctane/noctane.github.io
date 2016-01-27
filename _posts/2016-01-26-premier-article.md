@@ -3,6 +3,7 @@ layout: post
 title:  "Le Big Bang"
 date:   2016-01-25 22:45:30 +0100
 categories: articles
+permalink: /:categories/:title.html
 ---
 Cela fait un petit moment que je cherche à créer un blog. Un blog dans lequel je partage ma veille, mets en avant mon travail et présente mes réflexions.
 

@@ -3,6 +3,8 @@ layout: post
 title:  "Jekyll et Codekit"
 date:   2016-01-26 22:58:30 +0100
 categories: articles
+permalink: /:categories/:title.html
+comments: true
 ---
 J'oubliais de dire hier que j'ai souvent tendance à me compliquer la tâche.
 
