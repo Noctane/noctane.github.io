@@ -11,7 +11,7 @@ email: arnaud.prat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog ou je partage ma veille, mes expériences et mes réflexions.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://noctane.github.io/" # the base hostname & protocol for your site
 twitter_username: arnaudprat
 github_username:  noctane
 
