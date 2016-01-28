@@ -20,6 +20,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/ga.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/ga.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/head.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -199,28 +208,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/assets\/img\/browser-refresh.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 86855,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/browser-refresh.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/browser-refresh.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/markdown-disable.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 146656,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/markdown-disable.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/markdown-disable.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/_site\/css\/main.css": {
 		"fileType": 16,
