@@ -36,5 +36,6 @@
   </div>
 
 </footer>
-
-{% include ga.html %}
+{% if jekyll.environment == "production" %}
+  {% include ga.html %}
+{% endif %}
