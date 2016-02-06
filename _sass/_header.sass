@@ -1,0 +1,52 @@
+.site-header
+  margin: 30px auto
+
+  a.logo
+    display: block
+    width: 15%
+    margin: 0 auto
+
+    img
+      max-width: 100%
+
+  h1
+    text-align: center
+    font-weight: 300
+    color: $grey
+    margin: 0
+    font-size: 1.1em
+
+  h2
+    text-align: center
+    text-transform: uppercase
+    color: $orange
+    font-weight: 400
+    font-size: 0.8em
+    margin: 0
+
+.navigation
+  margin-top: 50px
+
+  ul
+    list-style: none
+    margin: 0
+
+    li
+      float: left
+      display: block
+      min-width: 25%
+      text-align: center
+
+      a
+        text-transform: uppercase
+        color: $grey-light
+        font-size: 0.8em
+        font-weight: 600
+        border-bottom: solid 3px transparent
+        font-family: $title-font-family
+
+        &:hover
+          text-decoration: none
+          color: $grey
+          border-bottom: solid 3px $grey
+          transition: all linear 0.2s

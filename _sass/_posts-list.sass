@@ -1,0 +1,36 @@
+// @media (min-width: 700px)
+//   .home
+//     width: 650px
+//     margin: 0 auto
+//     //Pas tout à fait la bonne classe. TODO: déplacer vers une feuille plus générique
+
+.post
+  background: #fff
+  padding: 30px
+  border-radius: 4px
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05)
+
+  &:last-of-type
+    border-bottom: none
+
+.title
+  margin-bottom: 20px
+  h2
+    margin-bottom: 0
+
+  .post-link
+    text-transform: uppercase
+    font:
+      size: 20px
+      weight: 700
+    color: $grey
+
+    &:hover
+      color: lighten($grey, 10%)
+      text-decoration: none
+
+    &:visited
+      color: $grey
+
+  span
+    font-family: $title-font-family

@@ -3,11 +3,12 @@ layout: post
 title:  "Jekyll et Codekit"
 date:   2016-01-26 22:58:30 +0100
 categories: articles
+excerpt_separator: <!--more-->
 ---
 J'oubliais de dire hier que j'ai souvent tendance à me compliquer la tâche.
 
 Parce que je suis un inconditionnel de SASS, que je ne voulais pas m'ennuyer à créer des tâches Gulp et à faire vivre tout ce beau monde en harmonie, j'ai voulu essayer Codekit.
-
+<!--more-->
 Codekit, c'est une app d'un gars de San Diego qui, comme moi, voulait pas se prendre la tête à compiler son SASS en ligne de commande ou encore écrire une soupe en JS pour faire tout ça. Il a donc créé Codekit.
 
 Cette app permet grosso-modo de compiler à la volée votre SASS/LESS/Stylus et de rafraichir automatiquement votre navigateur quand il détecte des changements. Il compile d'autre trucs aussi, mais c'est pas le sujet.
