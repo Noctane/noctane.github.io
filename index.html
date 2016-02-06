@@ -14,6 +14,7 @@ layout: default
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         {{ post.excerpt }}
+        <a class="readmore-link" href="{{ post.url | prepend: site.baseurl }}">Lire la suite</a>
       </li>
     {% endfor %}
   </ul>
