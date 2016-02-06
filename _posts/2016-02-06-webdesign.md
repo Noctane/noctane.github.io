@@ -16,9 +16,10 @@ Evidemment je m’inspire largement de la lecture zen du site du Monde par exemp
 Mais j’aimerais surtout vous parler de l’organisation des feuilles de style de Jekyll (et donc de ce blog).
 
 Jekyll dispose d’un dossier `_sass` contenant trois fichiers SCSS :
-* `_base.scss`
-* `_layout.scss`
-* `_syntax-highlighting.scss`
+
++ `_base.scss`
++ `_layout.scss`
++ `_syntax-highlighting.scss`
 
 Et d’un dossier `css` contenant le fichier `main.scss` qui importe les fichiers cités précédemment.
 

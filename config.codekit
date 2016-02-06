@@ -171,6 +171,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/_sass\/_disqus.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_sass\/_disqus.sass",
+		"outputAbbreviatedPath": "\/css\/_disqus.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
 	"\/_sass\/_header.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -202,6 +218,22 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/_sass\/_post.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_sass\/_post.sass",
+		"outputAbbreviatedPath": "\/css\/_post.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
 		},
 	"\/_sass\/_posts-list.sass": {
 		"createSourceMap": 0,
