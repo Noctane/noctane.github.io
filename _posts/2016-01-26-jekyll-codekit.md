@@ -5,7 +5,6 @@ date:   2016-01-26 22:58:30 +0100
 categories: articles
 excerpt_separator: <!--more-->
 ---
-J'oubliais de dire hier que j'ai souvent tendance à me compliquer la tâche.
 
 Parce que je suis un inconditionnel de SASS, que je ne voulais pas m'ennuyer à créer des tâches Gulp et à faire vivre tout ce beau monde en harmonie, j'ai voulu essayer Codekit.
 <!--more-->
