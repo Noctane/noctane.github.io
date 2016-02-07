@@ -313,15 +313,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/articles\/2016\/01\/25\/premier-article.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/articles\/2016\/01\/25\/premier-article.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/articles\/2016\/01\/26\/jekyll-codekit.html": {
 		"fileType": 8192,
 		"ignore": 0,
